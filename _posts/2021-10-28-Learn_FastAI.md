@@ -1,3 +1,3 @@
-# Start my learning journey of FastAI
+# Beginning of my learning journey of FastAI
 
-What I can achieve with it is unclear for me.
+The inititates are trying to create something, something can simplify the life, connect interesting souls, for good
