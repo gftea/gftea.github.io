@@ -1,9 +1,9 @@
-# Learn FastAI using Free Notebooks with GPU support
+# Alternatives of free Notebooks with GPU service
 
-At the time of writing, Kaggle provide much better experience than the other alternatives
+At the time of writing, Kaggle provide better experience than the other alternatives for me.
 
 1. Gradient  
-The free version is slow and unstable, default CPU instance live time is 1h.
+The free GPU version is slower than Kaggle, max live time of a started instance is 6h. 
 
 2. Colab  
 Can not finish run of `text_classifier_learner` due to slow GPU and get disconnected often.  
@@ -11,8 +11,8 @@ Do not support running in background.
 Need to authorize access to drive every time.  
 
 3. Kaggle  
-30h free GPU run time.  
-support running in background.  
+minimum 30 hours of free GPU run time per week.  
+support running the notebook in background.  
 
 
 Use below if encountering dependencies resolving issue during pip install.
