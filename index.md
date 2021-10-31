@@ -1,2 +1,2 @@
-# Telecom, Software Engineering, Python, Machine Learing, Deep Learning
+Telecom, Software Engineering, Python, Machine Learing, Deep Learning
 
