@@ -1,10 +1,10 @@
 # Alternatives of free Notebooks with GPU service
 
-At the time of writing, Kaggle provide better experience than the other alternatives for me.  
 
 1. Gradient  
 Max live time of a started instance is 6h, then will be shut down automatically.  
 The GPU speed and CUDA memory is lower than Kaggle's. I hit the "CUDA out of memory error" when running the `text_classifier_learner`.  
+Gradient preserve the server environment, so that the installed packages will still be available in next.
 
 2. Colab  
 Seems much slower GPU than Gradien, I also cannot finish running of `text_classifier_learner` due to being disconnected often.  
