@@ -23,4 +23,4 @@ import sys
 ```
 
 # Modify kernel startup
-https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
+See good article about this from [jakevdp](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/#The-Root-of-the-Issue)
