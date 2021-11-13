@@ -32,3 +32,7 @@ Solved by downgrade the pytorch version below. See details in https://www.kaggle
 ```python
 !pip install --user torch==1.9.0 torchvision==0.10.0 torchaudio==0.9.0 torchtext==0.10.0
 ```
+Another way seems to fix this issue also.
+```python
+!conda install -c pytorch magma-cuda110 -y
+```
